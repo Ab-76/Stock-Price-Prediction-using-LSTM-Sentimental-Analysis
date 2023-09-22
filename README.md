@@ -12,7 +12,7 @@ In this project we attempt to predict the behaviour of the stock market by using
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/anmolcool007/stock-prediction`
+- Clone this repo to your local machine using `https://github.com/Ab-76/Stock-Price-Prediction`
 
 ### Setup
 
