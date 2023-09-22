@@ -92,5 +92,5 @@ $ pip install <packages from requirements.txt>
 
 ## Contributors
 
-- <a href="https://github.com/Yash5044" target="_blank">Yash Chaubey</a>
-- <a href="https://github.com/anmolcool007" target="_blank">Anmol Gupta</a>
+- <a href="https://github.com/Ab-76" target="_blank">Abhisek Biswal</a>
+- <a href="https://github.com/PolarBear-289" target="_blank">Soumyadeep Mukherjee</a>
